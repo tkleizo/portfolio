@@ -8,9 +8,11 @@ Senior Analytics Engineer at Netflix, somewhere between a business analyst, soft
 
 ## SKILLS
 
-- Web Development: LAMP JavaScript (ES6) Typescript HTML 5 Angular.js jQuery React
+- Web Development: JavaScript (ES6) Typescript HTML 5 Angular.js jQuery React
 - Tableau: Tableau Server Tableau Desktop Data Viz
 - Python: Flask Pandas Django
+- Java: Spring Boot
+- Enterprise Software: Salesforce Workday Netsuite
 
 ## EMPLOYMENT
 
@@ -53,16 +55,10 @@ Cal Poly Graduate, President's List & Dean's List Scholar, IFC President
 
 ## REFERENCES
 
-### *Devin Miller*, Director of Technology @ Fashion Nova (professional)
-[devinkm@gmail.com](mailto:devinkm@gmail.com)
-
-### *Shiva Maroju*, Manager @ Snap, Inc. (technical)
-[smaroju@snap.com](mailto:smaroju@snap.com)
-
+References available upon request
 
 ## INTERESTS
 
-- GITHUB: GitHub git GitHub Desktop (OS X) LFS GitHub API
-Regular GitHub user and tinkerer.
-
-
+- Data Visualization
+- Machine Learning
+- Web Design
