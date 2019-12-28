@@ -50,6 +50,14 @@
 
         <!-- Collapsed navigation -->
         <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
 
             <!-- Main title -->
 
@@ -58,11 +66,37 @@
 
         <!-- Expanded navigation -->
         <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                
+                
+                    <li class="active">
+                        <a href=".">Home</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="tk/">Resume</a>
+                    </li>
+                
+                
+                </ul>
 
             <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
                             <i class="fas fa-search"></i> Search
+                        </a>
+                    </li>
+                    <li class="disabled">
+                        <a rel="prev" >
+                            <i class="fas fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="next" href="tk/">
+                            Next <i class="fas fa-arrow-right"></i>
                         </a>
                     </li>
             </ul>
@@ -80,6 +114,8 @@
                 
             <li class="second-level"><a href="#contact">Contact</a></li>
                 
+            <li class="second-level"><a href="#my-resume">My Resume</a></li>
+                
     </ul>
 </div></div>
         <div class="col-md-9" role="main">
@@ -90,9 +126,7 @@
 <p>Production Finance Data Analyst at Netflix - Something between a business analyst, data analyst, and engineer.</p>
 <h2 id="contact">Contact</h2>
 <p>Feel free to send me an email at <a href="mailto:tyler@kleizo.com">tyler@kleizo.com</a></p>
-<blockquote>
-<p>For full documentation visit <a href="https://mkdocs.org">mkdocs.org</a>.</p>
-</blockquote></div>
+<h2 id="my-resume"><a href="tk/">My Resume</a></h2></div>
         
         
     </div>
@@ -184,5 +218,5 @@
 
 <!--
 MkDocs version : 1.0.4
-Build Date UTC : 2019-09-26 03:14:20
+Build Date UTC : 2019-12-28 01:04:34
 -->
