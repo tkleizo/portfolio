@@ -24,7 +24,7 @@ Analyst and engineer for the Studio Finance & Operations teams.
 - Created forecasts for Cash Flow, Staffing, and Costs for Billions of dollars of Netflix Studio spend
 - Author of hundreds of automated business reports in Tableau/Jupyter/Custom Javascript data tools
 
-### *Business Systems Engineer*, [Snap, Inc.](https://snap.com) (2017-03 — 2018-03)
+### *Business Systems Engineer*, [Snap, Inc.](https://snap.com) (2017-05 — 2018-03)
 
 Data & Web Application Engineer, extending Enterprise business solutions to fit the Snap business model
 - Implemented Tableau Server for Finance Teams - automated problematic monthly/quarterly revenue reports
