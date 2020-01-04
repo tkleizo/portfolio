@@ -2,4 +2,4 @@ site_name: Tyler Kleizo - Personal Site
 theme: cinder
 nav:
   - Home: index.md
-  - Resume: tk.md 
+  - Resume: resume.md 

@@ -10,4 +10,4 @@ Production Finance Data Analyst at Netflix - Something between a business analys
 
 Feel free to send me an email at [tyler@kleizo.com](mailto:tyler@kleizo.com)
 
-## [My Resume](tk.md)
+## [My Resume](resume.md)
