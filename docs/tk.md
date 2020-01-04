@@ -37,9 +37,9 @@ Analyst & Engineer, fitting finance & operations tools for a rapid-growth startu
 - Onboarded a custom Warehouse Management System, removing hundreds of manual hours of inventory tracking
 - Implemented custom revenue recognition for hundreds of thousands of orders
 
-## PROJECTS
+<!-- ## PROJECTS -->
 
-### [My Tableau Public Profile](https://public.tableau.com/profile/tyler.kleizo)
+<!-- ### [My Tableau Public Profile](https://public.tableau.com/profile/tyler.kleizo) -->
 
 ## EDUCATION
 
