@@ -19,6 +19,7 @@ Senior Analytics Engineer at Netflix, somewhere between a business analyst, soft
 ### *Senior Analytics Engineer, Studio Data Science*, [Netflix](https://netflix.com) (2018-03 — Present)
 
 Analyst and engineer for the Studio Finance & Operations teams.
+
 - Created regional spend profiles that drove millions of dollars of Tax Incentives
 - Managed staffing data for all Netflix Original Productions
 - Created forecasts for Cash Flow, Staffing, and Costs for Billions of dollars of Netflix Studio spend
@@ -27,12 +28,14 @@ Analyst and engineer for the Studio Finance & Operations teams.
 ### *Business Systems Engineer*, [Snap, Inc.](https://snap.com) (2017-05 — 2018-03)
 
 Data & Web Application Engineer, extending Enterprise business solutions to fit the Snap business model
+
 - Implemented Tableau Server for Finance Teams - automated problematic monthly/quarterly revenue reports
 - Automated hardware order process across multiple continents
 
 ### *Business Systems Analyst*, [Loot Crate](https://www.lootcrate.com/) (2016-05 — 2017-05)
 
 Analyst & Engineer, fitting finance & operations tools for a rapid-growth startup
+
 - Created custom catalog-management software for thousands of unique items
 - Onboarded a custom Warehouse Management System, removing hundreds of manual hours of inventory tracking
 - Implemented custom revenue recognition for hundreds of thousands of orders
@@ -60,5 +63,7 @@ References available upon request
 ## INTERESTS
 
 - Data Visualization
-- Machine Learning
-- Web Design
+- Machine Learning & Data Science
+- Web Development
+- Music Production
+- Tabletop RPG Games
